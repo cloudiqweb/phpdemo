@@ -62,7 +62,7 @@
             <li>Basic</li>
           </ol>
           <h1>Welcome to an DemoPHP Application!!!</h1>
-          <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
+          <p>The purpose of this application is to demonstrate several interesting features about OpenShift Pipeline. We hope you enjoy it!!!</p>
         </div>
       </div>
       <div class="row">
@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="bluerose.jpeg">
+            <img src="redrose.jpeg">
           </p>
         </div>
       </div>
