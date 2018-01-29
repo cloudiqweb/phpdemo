@@ -4,7 +4,7 @@
 <html>
 <!--<![endif]-->
   <head>
-    <title>Basic - Demo</title>
+    <title>Basic - Demo - Cloudiq</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="shortcut icon" href="../dist/img/favicon.ico">
     <!-- iPad retina icon -->
@@ -61,7 +61,7 @@
             <li><a href="#">Home</a></li>
             <li>Basic</li>
           </ol>
-          <h1>Welcome to an OpenShift Application!</h1>
+          <h1>Welcome to an SamplePHP Application!</h1>
           <p>The purpose of this application is to demonstrate several interesting features about OpenShift. We hope you enjoy it!</p>
         </div>
       </div>
@@ -90,13 +90,13 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="bluerose.jpeg">
+            <img src="redrose.jpeg">
           </p>
         </div>
       </div>
         </div><!-- /col -->
       </div><!-- /row -->
-    </div><!-- /container 123-->
+    </div><!-- /container 123456-->
     <script>
       // Initialize Datatables
       $(document).ready( function() {
